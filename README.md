@@ -113,15 +113,13 @@ College0 includes a context-aware AI assistant powered by a local vector databas
 
 ## Tech Stack
 
-> *(Update this section with your team's actual choices)*
-
-| Layer | Technology |
-|-------|------------|
-| Frontend / GUI | *(e.g., React, Tkinter, JavaFX)* |
-| Backend | *(e.g., Python/Flask, Node.js, Java)* |
-| Database | *(e.g., SQLite, PostgreSQL, MySQL)* |
-| Vector Store (AI) | *(e.g., FAISS, ChromaDB, Pinecone)* |
-| LLM Integration | *(e.g., OpenAI API, Claude API, Ollama)* |
+| Layer | Technology                           |
+|-------|--------------------------------------|
+| Frontend / GUI | *HTML, CSS, JS*                      |
+| Backend | *Python/Flask*                       |
+| Database | *MySQL*                              |
+| Vector Store (AI) | *ChromaDB, Pinecone*                 |
+| LLM Integration | *OpenAI API, Claude API, Gemini API* |
 
 ---
 
@@ -169,12 +167,13 @@ npm start
 
 ## Team
 
-| Name | Role / Responsibilities |
-|------|------------------------|
-| *(Member 1)* | *(e.g., Backend, Database)* |
-| *(Member 2)* | *(e.g., Frontend, GUI)* |
-| *(Member 3)* | *(e.g., AI Feature, Vector DB)* |
-| *(Member 4)* | *(e.g., Testing, Documentation)* |
+| Name               | Role / Responsibilities |
+|--------------------|-------------------------|
+| *Decong Deng*      | *Backend*               |
+| *Eddie Zhu*        | *Frontend*              |
+| *Gaurab Pun*       | *Backend*               |
+| *Sangita Shrestha* | *Database*              |
+| *Tristan Chong*    | *AI Feature*            |
 
 ---
 
